@@ -8,3 +8,6 @@
 
 ## Comment From Yoga Keshnen s/o Yogaindran
 ### I agree that the article of choice is intriguing. While I am majoring in Computer Science, I have never considered the philosophical foundations behind the subject—nor had the opportunity to explore it at an academic level. After reading the article, I think it could be useful to have a Computer Science elective at NYU that goes over the Philosophy of Software Development.
+
+## Comment from Kevin Choi
+### I think the idea of approaching computer science from a philosophical standpoint is exciting, and that it'll help us find new insights into the field. Maybe these insights won't be so practical, but I think they'll serve to help us understanding what we're doing, and why we do it. These statements sound vague, but I think they give a further meaning behind our work and open up the idea of new possibilities, which is what philosophy is mean tot do. 
